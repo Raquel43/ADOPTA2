@@ -1,0 +1,34 @@
+body{
+    background-image: url("../img/patitas.png");
+    background-color:bisque;
+
+}
+#galeria{
+    
+    /*overflow: auto;*/
+   
+    width: 100%;
+    }
+ /*#galeria::before{
+ content: "";
+ width: 100%;
+ height: 100%;
+/* position: absolute;
+ background-color: rgba(245, 243, 243, 0.8);*/
+ 
+
+#adopta{
+    color: black;
+}
+
+
+
+#footer{
+    background: url("../img/huellas.png");
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: auto;
+    left: auto;
+   
+}
